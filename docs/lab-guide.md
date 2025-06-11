@@ -1,4 +1,4 @@
-# Lab Guide: Create and Assume IAM Roles
+Create the S3RestrictedPolicy IAM Policy
 
 . Create the S3RestrictedPolicy IAM Policy
 Navigate to S3 and review the four buckets:
